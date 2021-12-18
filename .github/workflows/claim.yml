@@ -2,7 +2,7 @@ name: EFC
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 11 * * *"
+    - cron: "0 6 * * *"
 
 jobs:
   EFC:
